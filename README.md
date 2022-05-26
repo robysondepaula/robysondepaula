@@ -1,8 +1,18 @@
-I'm a newly graduated student of computer programming, starting to look for roles in the development industry.  I am excited to get a position in the job market to be able to share my skills and also be able to learn and better absorb what a successful developer's career is like.
+A recent graduate, starting to look for opportunities in the IT industry. I am excited to get a position in the job market to be able to share my skills and also be able to learn and better absorb what a successful developer's career is like.
 
-As such, I studied some subjects like C# object-oriented, C# Asp.net MVC Core, JavaScript, HTML, and CSS among others. And now I would like to be able to put this experience into practice and improve my skills.
+- Five years of Business experience with two years of software development and Technology experience, including a Capstone Project.
 
-Always looking for opportunities to acquire knowledge, learn and add to a work team.
+- Experience with enterprise systems as an end-user.
+
+- Experience working in an Agile environment.
+
+- Knowledge developing with C# object-oriented, C# Asp.net MVC Core, JavaScript, HTML, and CSS.
+
+- Years of experience with Visual Studio, Visual Code, MongoDB, Android Studio, MySQL, and SQL Server Management Studio.
+
+Seeking to put my experience into practice and improve my skills.
+
+Always open minded, looking for opportunities to acquire knowledge and learn.
 
 <!---
 robysondepaula/robysondepaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
