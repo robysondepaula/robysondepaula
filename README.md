@@ -14,7 +14,7 @@ Recent graduate, seeking for opportunities in the IT industry.
 
 Seeking to put my experience into practice and improve my skills.
 
-Always open minded, looking for opportunities to acquire knowledge and learn.
+Always open-minded to learning new technologies and methodologies.
 
 <!---
 robysondepaula/robysondepaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
