@@ -1,4 +1,4 @@
-A recent graduate, starting to look for opportunities in the IT industry. I am excited to get a position in the job market to be able to share my skills and also be able to learn and better absorb what a successful developer's career is like.
+Recent graduate, seeking for opportunities in the IT industry. 
 
 - Five years of Business experience with two years of software development and Technology experience, including a Capstone Project.
 
@@ -6,7 +6,9 @@ A recent graduate, starting to look for opportunities in the IT industry. I am e
 
 - Experience working in an Agile environment.
 
-- Knowledge developing with C# object-oriented, C# Asp.net MVC Core, JavaScript, HTML, and CSS.
+- Knowledge developing with C# object-oriented, C# Asp.net MVC Core, HTML, and CSS.
+
+- Experience developing with JavaScript, TypeScript, React, and familiar with Node
 
 - Years of experience with Visual Studio, Visual Code, MongoDB, Android Studio, MySQL, and SQL Server Management Studio.
 
