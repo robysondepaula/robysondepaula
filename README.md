@@ -34,4 +34,6 @@ Always open-minded to learning new technologies and methodologies.
 
 
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robysondepaula/)
+![LinkedIn]<a href="https://www.linkedin.com/in/robysondepaula/">
+    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+</a>
