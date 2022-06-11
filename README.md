@@ -8,9 +8,6 @@
  
  <h2 align="center">Developer|Software Engineer<h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robysondepaula&&layout=compact"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robysondepaula"/>
 
 <h1 align="center">
  Languages
