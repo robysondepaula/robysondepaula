@@ -31,7 +31,7 @@ Always open-minded to learning new technologies and methodologies.
     <tbody>
         <tr>
             <td>
-            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
             </a></td>
             <td><a href="https://www.linkedin.com/in/zluvsand/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
