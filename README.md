@@ -5,12 +5,13 @@
 <h1 align="center">Hello World!<br></h1>
 <img src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=500:*)" width="980px"; align="center" alt="Hello!!!">
  
- <h2 align="center">Developer | Software Engineer</h2>
+ <h2 align="center">Developer || Software Engineer</h2>
  <div align="center">
  <p>Recent graduate, starting to look for opportunities in the IT industry.</p> 
- <p>Passionate about code and technology...always open-minded to learning new technologies and methodologies.</p>
+ <p>Passionate about code and technology.Always open-minded to learning new technologies and methodologies.</p>
+ <img src="https://tenor.com/view/collectprime-rocket-foguete-gif-24490586" width="20px"
  </div>
-<hr>
+
 
 <h1 align="center">
  Languages
