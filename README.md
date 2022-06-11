@@ -30,7 +30,7 @@ Always open-minded to learning new technologies and methodologies.
 <table>
     <tbody>
         <tr>
-            <td><a href="https://medium.com/@zluvsand">
+            <td>
             <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
             </a></td>
             <td><a href="https://www.linkedin.com/in/zluvsand/">
