@@ -6,7 +6,7 @@
  Hello World! </h1>
  <img src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=500:*)" width="850px">
  
- <h2 align="center">Developer|Software Engineer<h1>
+ <h2 align="center">Developer | Software Engineer<h1>
 
 
 <h1 align="center">
@@ -19,7 +19,7 @@
 <br>
           
 <h1 align="center">
- Frameworks || Platforms
+ Frameworks && Platforms
 <div style="display: inline_block;" align="center"><br>      
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
@@ -27,7 +27,7 @@
 <br><br>
           
 <h1 align="center">
-Social Media || Contact
+Social Media && Contact
 <div style="display: inline_block;"  align="center">   
  <br>
 <a href="https://www.linkedin.com/in/robysondepaula/">
