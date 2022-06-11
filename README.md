@@ -8,7 +8,7 @@ Always open-minded to learning new technologies and methodologies.
 
 <h1 align="center">
  Hello World! </h1>
- <img src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=500:*)" width="980px">
+ <img src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=500:*)" width="850px">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robysondepaula&&layout=compact"/>
 
