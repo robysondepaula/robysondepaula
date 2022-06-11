@@ -34,6 +34,8 @@ Social Media && Contact
 <a href="https://www.linkedin.com/in/robysondepaula/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
- <img height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ <a href="mailto:robysondepaula.ca@gmail.com">
+ <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
 </h1>
 </div>
