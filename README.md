@@ -9,7 +9,7 @@
  <div align="center">
  <p>Recent graduate, starting to look for opportunities in the IT industry.</p> 
  <p>Passionate about code and technology.Always open-minded to learning new technologies and methodologies.</p>
- <img src="https://tenor.com/view/collectprime-rocket-foguete-gif-24490586" width="20px"
+ <img src="https://tenor.com/view/foguete-ponto-focal-foguete-rocket-gif-15306871" width="20px">
  </div>
 
 
