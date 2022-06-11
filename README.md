@@ -7,6 +7,7 @@
  <h2 align="center">Developer | Software Engineer</h2>
  Recent graduate, starting to look for opportunities in the IT industry. 
  Excited to get a position in the job market to be able to share my skills and also be able to learn new things.
+ Always open-minded to learning new technologies and methodologies.
 
 
 <h1 align="center">
