@@ -1,20 +1,22 @@
-<div align="center">
-  <a href="https://github.com/carlosmsbf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosmsbf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosmsbf&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+Recent graduate, seeking for opportunities in the IT industry. 
 
-<div style="display: inline_block;" align="center"><br>
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  <br/><br/>
-  <div align="center"> 
-  <a href = "mailto:carlosmsbf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-barros-6a63901a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- Five years of Business experience with two years of software development and Technology experience, including a Capstone Project.
+
+- Experience with enterprise systems as an end-user.
+
+- Experience working in an Agile environment.
+
+- Knowledge developing with C# object-oriented, C# Asp.net MVC Core, HTML, and CSS.
+
+- Experience developing with JavaScript, TypeScript, React, and familiar with Node
+
+- Years of experience with Visual Studio, Visual Code, MongoDB, Android Studio, MySQL, and SQL Server Management Studio.
+
+Seeking to put my experience into practice and improve my skills.
+
+Always open-minded to learning new technologies and methodologies.
+
+<!---
+robysondepaula/robysondepaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
