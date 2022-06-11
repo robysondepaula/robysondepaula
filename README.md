@@ -5,7 +5,9 @@
 <h1 align="center">Hello World!<br><img src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=500:*)" width="300px";></h1>
  
  <h2 align="center">Developer | Software Engineer</h2>
- 
+ Recent graduate, starting to look for opportunities in the IT industry. 
+ Excited to get a position in the job market to be able to share my skills and also be able to learn new things.
+
 
 <h1 align="center">
  Languages
