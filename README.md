@@ -3,23 +3,12 @@
 
 Recent graduate, seeking for opportunities in the IT industry. 
 
-- Five years of Business experience with two years of software development and Technology experience, including a Capstone Project.
-
-- Experience with enterprise systems as an end-user.
-
-- Experience working in an Agile environment.
-
-- Knowledge developing with C# object-oriented, C# Asp.net MVC Core, HTML, and CSS.
-
-- Experience developing with JavaScript, TypeScript, React, and familiar with Node
-
-- Years of experience with Visual Studio, Visual Code, MongoDB, Android Studio, MySQL, and SQL Server Management Studio.
-
-Seeking to put my experience into practice and improve my skills.
 
 Always open-minded to learning new technologies and methodologies.
 
-# Hello World! <img src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=500:*)" width="1000px">
+<h1 align="center">
+ Hello World! </h1>
+ <img src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=500:*)" width="980px">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robysondepaula&&layout=compact"/>
 
