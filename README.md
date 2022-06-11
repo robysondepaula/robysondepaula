@@ -10,7 +10,7 @@
  <p>Recent graduate, starting to look for opportunities in the IT industry.</p> 
  <p>Passionate about code and technology...always open-minded to learning new technologies and methodologies.</p>
  </div>
-
+<hr>
 
 <h1 align="center">
  Languages
