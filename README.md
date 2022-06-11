@@ -1,14 +1,12 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-Recent graduate, seeking for opportunities in the IT industry. 
-
-
-Always open-minded to learning new technologies and methodologies.
 
 <h1 align="center">
  Hello World! </h1>
  <img src="https://creators-images.vice.com/content-images/contentimage/no-slug/e4e149d87b4f8f5330c1e3c79c24ea6f.jpg?crop=1xw:0.7976772616136919xh;center,center&resize=500:*)" width="850px">
+ 
+ <h2 align="center">Developer|Software Engineer<h1>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robysondepaula&&layout=compact"/>
 
