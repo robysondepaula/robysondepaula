@@ -40,6 +40,7 @@ Always open-minded to learning new technologies and methodologies.
 
 
 <div align="center"> 
+          # Social Media || Contact
 <a href="https://www.linkedin.com/in/robysondepaula/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a>
