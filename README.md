@@ -9,7 +9,7 @@
  <div align="center">
  <p>Recent graduate, starting to look for opportunities in the IT industry.</p> 
  <p>Passionate about code and technology.Always open-minded to learning new technologies and methodologies.</p>
- <img src="https://media.giphy.com/media/gjxensySZ1VkwhGtRt/giphy.gif" width="20px">
+ <img src="https://i.pinimg.com/originals/d4/83/6d/d4836d205fa731a4240379657aadea27.gif" width="20px">
  </div>
 
 
